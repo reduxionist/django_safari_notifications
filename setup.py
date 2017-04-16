@@ -52,7 +52,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author='matiboy',
     author_email='mathieu@redapesolutions.com',
-    url='https://github.com/matiboy/django-safari-notifications',
+    url='https://github.com/matiboy/django_safari_notifications',
     packages=[
         'django_safari_notifications',
     ],
